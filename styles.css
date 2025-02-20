@@ -1,0 +1,22 @@
+/**header**/
+header{
+    display:grid;
+    background-color: green;
+    width: 50%;
+    height: 200px;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-color: black;
+    border-width:4px;
+}
+
+.links{
+    display:grid;
+    background-color:aqua;
+    width: 50%;
+    height:auto;
+    text-align: left;
+    Margin-left:25%;
+
+}

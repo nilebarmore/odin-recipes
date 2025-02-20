@@ -1,0 +1,49 @@
+
+/** header **/
+header{
+    display:grid;
+    align-items:center;
+    background-color: green;
+    width: 50%;
+    height: 200px;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-color: black;
+    border-width:4px;
+}
+
+.home-link{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.recipe{
+    display:grid;
+    align-items:center;
+    background-color:aqua;
+    align-content:center;
+    width:50%;
+    margin-left:25%;
+}
+
+.intro{
+    display:grid;
+    place-items:center;
+    align-items:center;
+    text-align:center;
+    align-content:center;
+    width:80%;
+    margin-left:10%;
+    margin-top:20px;
+    
+}
+.img{
+    width:auto;
+    height:400px;
+}
+
+.instructions{
+    width:80%;
+    margin-left:10%;
+}
