@@ -9,13 +9,21 @@ header{
     text-align: center;
     margin-left: 25%;
     margin-right: 25%;
+    border-style:solid;
     border-color: black;
     border-width:4px;
+    border-radius:16px;
 }
 
 .home-link{
     margin-top:10px;
     margin-bottom:10px;
+}
+
+.divider{
+    display:grid;
+    background-color:white;
+    height:16px;
 }
 
 .recipe{
@@ -25,6 +33,10 @@ header{
     align-content:center;
     width:50%;
     margin-left:25%;
+    border-style:solid;
+    border-color:black;
+    border-width:4px;
+    border-radius:16px;
 }
 
 .intro{
@@ -36,8 +48,12 @@ header{
     width:80%;
     margin-left:10%;
     margin-top:20px;
-    
 }
+
+.intro p{
+    text-align:left;
+}
+
 .img{
     width:auto;
     height:400px;
